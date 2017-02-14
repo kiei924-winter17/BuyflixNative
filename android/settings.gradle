@@ -1,0 +1,3 @@
+rootProject.name = 'BuyflixNative'
+
+include ':app'
